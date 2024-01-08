@@ -138,11 +138,11 @@ input,button{
   display:none
 }
 
-.list .list-item.editMode .input[type=text] {
+.list .list-item.edit-mode .input[type=text] {
   display:inline-block;
   width:224px
 }
 
-.list .list-item.editMode .label {
+.list .list-item.edit-mode .label {
   display:none;
 }
